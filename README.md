@@ -2,13 +2,11 @@
 <img src="https://i.imgur.com/Ua7udoS.png" alt="Traffic Examination"/>
 </p>
 
-<h1>Network Security Groups (NSGs) and Inspecting Traffic Between Azure Virtual Machines</h1>
-In this tutorial, we observe various network traffic to and from Azure Virtual Machines with Wireshark as well as experiment with Network Security Groups. <br />
+<h1>Network Security Groups (NSGs) and Inspecting Traffic Between Azure Virtual Machines</h1> With my instruction, we observe various network traffic to and from Azure Virtual Machines with Wireshark as well as experiment with Network Security Groups. <br />
 
 
-<h2>Video Demonstration</h2>
 
-- ### [YouTube: Azure Virtual Machines, Wireshark, and Network Security Groups](https://www.youtube.com)
+
 
 <h2>Environments and Technologies Used</h2>
 
@@ -25,33 +23,26 @@ In this tutorial, we observe various network traffic to and from Azure Virtual M
 
 <h2>High-Level Steps</h2>
 
-- Step 1
-- Step 2
-- Step 3
-- Step 4
+- Create Virtual Machines
+- Remote Desktop into VM's
+- Install & Run Wireshark 
+- Test connectivity between VM's
+- Alter Network Security Group settings
+- SSH into VM's
+- Observe DHCP Traffic 
 
 <h2>Actions and Observations</h2>
 
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
-<br />
+- CREATE VIRTUAL MACHINES 
+![image](https://github.com/Llave254/azure-network-protocols/assets/166266714/c0c9ff85-47ae-4645-9123-ed38f32adf0f)
 
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
-<br />
+- REMOTE DESKTOP INTO VMs
+  ![image](https://github.com/Llave254/azure-network-protocols/assets/166266714/24ef8e01-83a8-48d8-ab66-95efe207cf30)
+  ![image](https://github.com/Llave254/azure-network-protocols/assets/166266714/3977f07a-a7e8-46cf-b6ef-210a01c9c554)
 
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
-<br />
+
+- INSTALL & RUN WIRESHARK 
+![image](https://github.com/Llave254/azure-network-protocols/assets/166266714/8282a755-ffd7-4456-8711-c451fd8e03b7)
+
+
+
