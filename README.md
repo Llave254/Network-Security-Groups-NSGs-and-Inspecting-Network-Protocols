@@ -43,6 +43,35 @@
 
 - INSTALL & RUN WIRESHARK 
 ![image](https://github.com/Llave254/azure-network-protocols/assets/166266714/8282a755-ffd7-4456-8711-c451fd8e03b7)
+![image](https://github.com/Llave254/azure-network-protocols/assets/166266714/610043c0-3a41-42c4-8f4d-5e9588f96573)
+![image](https://github.com/Llave254/azure-network-protocols/assets/166266714/b0cdaf9f-3b4f-4ebc-aa5e-0e67ba0cd76a)
+
+- TEST CONNECTIVITY BETWEEN VMs
+![image](https://github.com/Llave254/azure-network-protocols/assets/166266714/b87b7879-b5c2-4772-a950-af1f52053142)
+
+![image](https://github.com/Llave254/azure-network-protocols/assets/166266714/6062ca55-fce0-4190-b59c-f2a0162fed6c)
+
+- ALTER NETWORK SECURITY GROUP SETTINGS 
+![image](https://github.com/Llave254/azure-network-protocols/assets/166266714/6eca6d51-5295-41d7-a305-52300bd0b417)
+![image](https://github.com/Llave254/azure-network-protocols/assets/166266714/e47a4df0-145e-4e0d-88bd-c09991fcb599)
+
+- SSH INTO VMs
+  ![image](https://github.com/Llave254/azure-network-protocols/assets/166266714/18dad01c-fcdf-47c2-9bdf-445d1066ee9e)
+  ![image](https://github.com/Llave254/azure-network-protocols/assets/166266714/34e2e04a-a1fc-49bd-b172-b1073961abfd)
+![image](https://github.com/Llave254/azure-network-protocols/assets/166266714/ecf1a22d-6e76-4a35-8f79-6c0c8890e873)
+
+- OBSERVE DHCP TRAFFIC
+  ![image](https://github.com/Llave254/azure-network-protocols/assets/166266714/8960cdcd-217d-4580-bbaa-eea60393652f)
+  ![image](https://github.com/Llave254/azure-network-protocols/assets/166266714/8ce3b34b-6941-47e0-98d5-f38b0fac8b16)
+
+
+
+
+  
+
+
+
+
 
 
 
